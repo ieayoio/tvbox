@@ -1,0 +1,48 @@
+{
+  "urls": [
+    {
+      "url": "./0821.json",
+      "name": "高天流云 No.1"
+    },
+    {
+      "url": "./0825.json",
+      "name": "高天流云 PG"
+    },
+    {
+      "url": "./0826.json",
+      "name": "高天流云 FTY"
+    },
+    {
+      "url": "./0827.json",
+      "name": "高天流云 FM"
+    },
+    {
+      "url": "./js.json",
+      "name": "高天流云 JS"
+    },
+    {
+      "url": "./XYQ.json",
+      "name": "高天流云 XYQ"
+    },
+    {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "巧记Box"
+    },
+    {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "俊于"
+    },
+    {
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+      "name": "南风"
+    },
+    {
+      "url": "https://www.wya6.cn/tv/yc.json",
+      "name": "无意线路"
+    },
+    {
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+      "name": "香雅情"
+    }
+  ]
+}
